@@ -1,0 +1,31 @@
+05.30.2019 00:05:05.65778  Information: BtnBaglan_Click tıklandı 
+05.30.2019 00:05:45.25512  Information: BtnBaglan_Click tıklandı 
+30.05.2019 00:28:27.87859  Information: cBtnBaglan_Click tıklandı 
+30.05.2019 00:28:27.89158  Information: 192.168.2.52ip adresine bağlandı 
+30.05.2019 00:31:48.78633  Information: cBtnBaglan_Click tıklandı 
+30.05.2019 00:31:48.79632  Information: 192.168.2.52ip adresine bağlandı 
+30.05.2019 00:33:10.48763  Information: cBtnBaglan_Click tıklandı 
+30.05.2019 00:33:10.49862  Information: 192.168.2.52ip adresine bağlandı 
+30.05.2019 01:31:57.01420  Information: 192.168.2.52numarali ip adresine bağlanıldı. 
+30.05.2019 01:31:57.02319  Information: aksoy isimli kullanici geldi. 
+30.05.2019 01:33:17.56108  Information: 192.168.2.52 numarali ip adresine bağlanıldı. 
+30.05.2019 01:33:53.12006  Information: Serverdan Gelen Mesaj: Re/kyu5wTplw7DNyCysg7Iqh8qMqCH550ouHnK9e4lVtL5E0vyS0WlMFKg6y3O+PT5rvmCHjh8Sua5Gqof91g4IL6YOodqNDLtUzt8KVKsgfGLfNQwkQXlNb727y5qxtpKGD9jCQeLBgvmihxkNsc0niDJ54dyl6+QgVCliHWAp47qWFX6RLlYyHS63ncQYjT1b0T7FPgjlna38Swo2RK18M/Vc04YoLEG3cf2W4qzuNbBCmVd4JGQQbiu3VOs887cfvCEtjWZvi84XiRT23uZANZ1ZK/vMGEdCUa/F1FuCv3NVKagPhRA/bKpIKiaFwFC+mhNNGTsNTNeRFUHact670qCBTkavwJUqj6HzorKQxhkG79rr/vGlM5RN8AJGKv7U+6IeIYawxuqqpMTKgzP/mAcBtzsA7BOu+nlCQwfZoOG5/LoUoNcIMqeo+r8NO6+DNo+Rc7rJ40LWr1XrYlUXh5I8ogaRSEBDj9TNAXsGMb6YZDADt3lO+53yiggvgJG4Rhpay5oYDhqcEnk4vFwxCXSVWufFEjQOl7X/QkWMdPsPKngvZSmec6YEH6EeJ/5kDn6n3jHFobaSB0jjFgihrY8R/905gxf7YZpBxcD9smO4M6zcgwq14zEBKD7nWgQISlfcHVPLW80GQzbE5mosLhy0WnDbLqQGC7vRiOrA= 
+30.05.2019 01:33:53.12605  Information: Cozumlenmis Simetrik Sifre: asdfgytasdfgytrfghtuytorfghtuyto 
+30.05.2019 01:33:53.13904  Information: SecretKey başarılı şekilde alındı. 
+30.05.2019 01:35:04.81999  Information: aksoy: deneme 
+30.05.2019 02:40:11.34637  Information: 192.168.43.168 numarali ip adresine bağlanıldı. 
+30.05.2019 02:40:32.30059  Information: Serverdan Gelen Mesaj: g/XNxAMCwGqfONbRLyiIGoZUJ5WzksFI5Ug7u3sBJ2yZnzJnuux48tF9ZkMH/qjKukkXc1uEa7Xxy9A/iq4IYHLXzzAkQrAdaariegEWNxe7cPeMURwVMI9Bt3Imr4jXlR+ARmvxOtcuaxyZxhXENdqgFcSJNrOlw0fsToBy3edy4CO9viSOVhPoRRTiiiZ+OaGlW9ClMS6uefR7icRz4K7kBNimVlwVYFygxAoTv40HOZOotYshl0CG+2Y7e6FOtn6pogixyAT5P76dMqTBkCKrZbCRy8fB4iy6CLFZRlw8YgYUuXwlvpamdYPb3mPOepi0/8dlIU2stmUb2GpOfkiT/PMXQsEfc4xm3dQGGP4P+Qyn5ZnaxkUaluAI2rNDMI6xIB2AaOLoOIVHR6WcoRhr6saDv1V5tzDaZdQKAATqjapnfI5x0OkJ4M9Uq0iyJSOCtsm9UrYK/z9QDHqrDqXiBFkLbiB1MtS+TGZuu/lMWa6Yakp0pJddplO8GnLw4ZyUEY8TPoGjzCyulA18L/KIwALK6XUnRi2UxmK6kpdg/auqnoh9aykf1qTkX5n/aTJO0f26lZSKuseWqzpvCKJesTx0yF1BloTa+dEc/Gk7byBQMDigUSA9g9NyADLOeCej19SiXNecer1NEvyolOrQEOxBOgkhbF/jQfKEXpQ= 
+30.05.2019 02:40:32.31621  Information: Cozumlenmis Simetrik Sifre: asdfgytasdfgytrfghtuytorfghtuyto 
+30.05.2019 02:40:32.31621  Information: SecretKey başarılı şekilde alındı. 
+30.05.2019 10:57:09.21167  Information: 192.168.43.168 numarali ip adresine bağlanıldı. 
+30.05.2019 10:57:37.27863  Information: Serverdan Gelen Mesaj: b05BbPAc1lYjLVrifQch+zOVXu/JQmhDzIqQZ8sIaH4boRQ5HmTUnDtVnpdgUW2gxuEO0ukrHeT590AqT4m++yqU39SOY9KKkeznuD+oD9N74KXEGaeyq0Hr6yf/i3kBKA6iXqNwKjs7kr+rxV+3PzgyLORwUpgAuqJdCvMWfnqi3RnRovePuAXYMiRUS9cevu5c8UTZ+RoNj1G+DAHmhcUOpuxtCkianct0NCsxxcyIEfvDnLDdIz5MA0PehiWxX4X47ehHO8eS8e+IHac5b38o/Zzk5wcYEWK5Gc+ZzOB5OzicJZwcsqCsOzVgRjvE84demuoVqTyN7CDSnBvg0flYsUhFwlV9q82FGEX9xF6pVczsdv9wPgbIsVzMaFjFx3oj1LXaRb4rW/aC7Iqa5UIUmJFbOcv3SxWNVzNj5cwt/fqh8dwJBLZ082LTxhsIyGd1SnyPSMXLsK3/nkFaX288YSAYL4Alr6WZoWdyckQ0vh6wI6Y3IfdMMv9UIA6Utemzu0AVEJgYeDvKWfvtUiEoNn/nei6wYt6Tb+xdDOIDz+zbQC12xtwoZjkUNxlnH41pOy8ySfn9yRAJeYKl6VMUikUABvF4f87Ye/V2k4Q63Nu0WzGEJdrh+qS3xV2Pz3KGAkMHw/Z+AB+a1v/3l6nJ4DRJgRUgcj6lCLSZMoU= 
+30.05.2019 10:57:37.27863  Information: Cozumlenmis Simetrik Sifre: asdfgytasdfgytrfghtuytorfghtuyto 
+30.05.2019 10:57:37.27863  Information: SecretKey başarılı şekilde alındı. 
+30.05.2019 10:57:48.21750  Information: 0110010101011111011011000110000001011011b8cf18c1cf6328cbcb0908096738d0703e002c3f3c79263bc77eabe4581878cc 
+30.05.2019 10:58:10.76850  Information: 0110010101011111011011000110000001011011b8cf18c1cf6328cbcb0908096738d0703e002c3f3c79263bc77eabe4581878cc 
+30.05.2019 10:59:04.07338  Information: aksoy: eneme 
+30.05.2019 12:06:53.76530  Information: 192.168.43.168 numarali ip adresine bağlanıldı. 
+30.05.2019 12:07:27.92845  Information: Serverdan Gelen Mesaj: livkQ9VrJUh7oznqykh9Sf1N5M5ReO07F67zMKWOGThtB0hmMJEWRs6c2f7CXN+D4+qHnBjOzuODrjodFu26tWERiLq6Btv8tdi+lQYG0hmfTc1nljpNvznKI4PKXWXznLcb+nvotzVlleWL9AHLvnrj3FYpdhA0pBWc9bRmL4AjK0adSOMEJNHYEdqN21K0vxcT9YBJaHYWH7MlZK/pzALSqe60elsMzK9ZI3WownwaK3frNOlwVomLnYuufzo3+2HG8fSZusFWvSp/qVnuN1n7P2pjCgGkwhuOAimA87/sgJzkA28f1t9x7JGtT36CkD6XNZ24+TQw5Loi2+geFyXZ6DwMH1fGHzj2UuvSunkJyXNY8GgH2zADxQBscNTAI4ilgrJWbiDl3xM8xFuGiYieq+K+tTQlnhI+g3fhgJ7xCT3ZlJjjUIXjn91xG+MufU3pH61vhzWjnQ7cHlaaRKev1tZPRB4ZyR37tg44X2tWxslcZYWl8PiIS5B9YdO4bkK1RcR9F++hQRCIEfZEV+azVyrwGzJ1CrJdtdKVdJYQUSLsIDMkwE9Ccg3feJpSp48lzBEtRNikieYI1b31HY0b57DBkIjxixtOrRgH3jt9uWzNF0Gf7xINJzvAb6NwzwS7AmPx/ud1r1H5gWPdaLIU+qP+STUMFemUiK283MA= 
+30.05.2019 12:07:27.92845  Information: Cozumlenmis Simetrik Sifre: asdfgytasdfgytrfghtuytorfghtuyto 
+30.05.2019 12:07:27.94407  Information: SecretKey başarılı şekilde alındı. 
+30.05.2019 12:08:07.72315  Information: aksoy: hakan 
