@@ -1,0 +1,142 @@
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\ResolveAssemblyReference.cache
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.Cache
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+E:\SINIFLAR\YV3_4108\Dagitik\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+E:\Görsel Eğitim Setleri\Bilge Adam Kurs Notları\İleri C#\PROJELER\Ocak\06_01\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+E:\Doktora\Şifreleme ve Ağ Güvenliği\Şifreleme ve Ağ Güvenliği Ödev\socket_chat\Backupp\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Hakan\Kodlar\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\bin\Debug\CryptoLib.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CopyComplete
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\Bitirme Projesi\Proje Kod Kaynakları\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\bin\Debug\CryptoLibrary.pdb
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojResolveAssemblyReference.cache
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.Cache
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\DTCAKSOY\Downloads\KUTUPHANE\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.Cache
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojResolveAssemblyReference.cache
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\bin\Debug\CryptoLibrary.pdb
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\DTCAKSOY\Downloads\Son\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.pdb
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll.config
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CopyComplete
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe.config
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\CryptoLibrary.dll.config
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csprojAssemblyReference.cache
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServer.resources
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.Properties.Resources.resources
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.GenerateResource.cache
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CoreCompileInputs.cache
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.csproj.CopyComplete
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.exe
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\LogHelperLib.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\LogHelperLib.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Hknaksoyy\Desktop\Tasarım ve Bitirme Projesi\PROJE\Son2\Son\Server_Tarafi\obj\Debug\Server_Tarafi.frmServerLog.resources

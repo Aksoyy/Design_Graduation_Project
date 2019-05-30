@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Tarafi", "Client_Tarafi\Client_Tarafi.csproj", "{F5E2230D-81D5-4EBF-AC40-2A242396CB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Tarafi", "Server_Tarafi\Server_Tarafi.csproj", "{1566FE46-B890-421F-BAAE-7952774A71F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAConsoleAppTest", "RSAConsoleAppTest\RSAConsoleAppTest.csproj", "{D7A761D9-2EF2-466B-AAFD-FEB904180179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLibrary", "CryptoLibrary\CryptoLibrary.csproj", "{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogHelperLib", "LogHelperLib\LogHelperLib.csproj", "{714080A4-B3F1-4B8C-8234-ED3707894AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Release|x64.ActiveCfg = Release|x64
+		{F5E2230D-81D5-4EBF-AC40-2A242396CB72}.Release|x64.Build.0 = Release|x64
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Release|x64.ActiveCfg = Release|Any CPU
+		{1566FE46-B890-421F-BAAE-7952774A71F1}.Release|x64.Build.0 = Release|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Debug|x64.Build.0 = Debug|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Release|x64.ActiveCfg = Release|Any CPU
+		{D7A761D9-2EF2-466B-AAFD-FEB904180179}.Release|x64.Build.0 = Release|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Debug|x64.Build.0 = Debug|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Release|x64.ActiveCfg = Release|Any CPU
+		{CA7F3138-CDF6-4ACD-B21B-3A8ACE46BC94}.Release|x64.Build.0 = Release|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Debug|x64.Build.0 = Debug|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{714080A4-B3F1-4B8C-8234-ED3707894AAB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.Interception.2.1.505.0\lib\NET35;packages\EnterpriseLibrary.Common.5.0.505.0\lib\NET35;packages\EnterpriseLibrary.Logging.5.0.505.0\lib\NET35
+		SolutionGuid = {7B518571-C99B-4988-9396-75CED35C1FCD}
+	EndGlobalSection
+EndGlobal
